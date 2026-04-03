@@ -1,2 +1,2 @@
-python-telegram-bot
-google-generativeai
+python-telegram-bot[webhooks]
+google-genai
